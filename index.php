@@ -1,0 +1,1 @@
+<?php echo "Fuel API Running"; ?>
